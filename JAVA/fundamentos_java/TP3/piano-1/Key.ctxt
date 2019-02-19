@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=keyC\ keyName\ soundFile\ Up\ Down
+comment1.target=Key(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Create\ a\ new\ key.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Do\ the\ action\ for\ this\ key.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment4.params=
+comment4.target=void\ play()
+comment5.params=isDown
+comment5.target=void\ setIsDown(boolean)
+comment6.params=
+comment6.target=boolean\ getIsDown()
+numComments=7

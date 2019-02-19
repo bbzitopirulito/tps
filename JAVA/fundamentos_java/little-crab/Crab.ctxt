@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\r\n\ This\ class\ defines\ a\ crab.\ Crabs\ live\ on\ the\ beach.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ switchImage()
+comment2.params=player
+comment2.target=Crab(int)
+comment3.params=
+comment3.target=void\ turnAtEdge()
+comment3.text=\r\n\ M\u00E9todo\ turnAtEdge()\r\n\ Rotaciona\ quando\ detecta\ o\ canto\r\n
+comment4.params=
+comment4.target=void\ randomTurn()
+comment4.text=\r\n\ M\u00E9todo\ random\ turn\r\n\ Rotaciona\ aleatoriamente\ o\ crab\ com\ probabilidade\ de\ 10%\r\n
+comment5.params=
+comment5.target=void\ relocate()
+comment6.params=
+comment6.target=void\ eatWorm()
+comment6.text=\r\n\ M\u00E9todo\ eatWorm()\r\n\ M\u00E9todo\ que\ detecta\ a\ colis\u00E3o\ com\ o\ Worm\ e\ retira\ o\ objeto\ do\ mundo\r\n
+comment7.params=
+comment7.target=boolean\ isPowerfull()
+comment8.params=
+comment8.target=void\ eatPotion()
+comment9.params=
+comment9.target=void\ checkKeyPress()
+numComments=11

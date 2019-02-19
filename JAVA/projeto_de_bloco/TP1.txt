@@ -1,0 +1,46 @@
+	
+
+					ENTREVISTA
+
+
+
+
+1º:
+	
+	"Como você definiria a natureza de um software?"
+	
+	"Eu vejo como algo que é feito para resolver problemas de forma melhor que o meio físico ou 
+	então resolver o que o meio físico não consegue. Hoje os softwares são tão avançados que oferecem soluções 
+	impossíveis de se obter de outra forma, então é algo extremamente necessário nos dias de hoje"
+
+
+2º:
+
+	"Quais são os fundamentos da Eng. de Software e explique-os"
+
+	"O fator 'problema' é o que gera um software como solução para o problema. Primeiro é feito um brainstorm de
+	ideias para que se tenha uma ideia do que o software deve fazer e como deve ser. Segundo, tarefas são divididas
+	(isso ocorre geralmente quando se trabalha em grupo) para ver qual vai ser o papel de cada um no desenvolvimento.
+	Terceiro, é sentar a bunda e programar até que se chegue a um resultado satisfatório. Quarto, fazemos os acertos
+	(correção de erros, bugs...) e o que é feito depois depende do tipo de software (app, site...)"
+
+3º:
+	
+	"Como são os fundamentos de construção de um software?"
+
+	"A engenharia de software não é só programação, como muitos pensam. Vai desde a ideia até (às vezes) o marketing.
+	é um processo longo que envolve o brainstorm, definição do escopo, programação(muita programação) e correção."
+
+4º: 
+	
+	"Como é na prática a engenharia de software?"
+
+	"É necessário muita disposição para pensar e quebrar a cabeça na hora de montar um software. Paciência e 
+	persistência tambem são muito importantes. Muitas pessoas acabam desistindo no meio do desenvolvimento de um
+	software porque é 'muito trabalhoso'."
+
+
+
+Entrevistador: Bernardo Mendes de Lima.
+
+Entrevistado: Programador mobile, 3 anos de experiência.

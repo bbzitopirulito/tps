@@ -1,0 +1,60 @@
+					
+	
+					
+						TP3
+
+-Modelo Cascata:
+
+	-fases: 
+		1° Comunicação
+		2° Planejamento
+		3° Modelagem
+		4° Construção
+		5° Implantação
+
+	1 - Comunicação:
+    		- Na primeira fase, é feito a comunicação com o cliente para saber o que ele quer, sendo assim, 
+		a pessoa que vai fazer essa ponte entre o cliente e a empresa deve fazer um levantamento 
+		sobre quais são os requisitos do cliente, o que ele quer que seja feito em seu software.
+	2 - Planejamento:
+		-  Na segunda fase, as metas são traçadas e os prazos, custos, cronograma 
+		e os recursos necessários são definidos (o que não os impede de serem alterados).
+	3 - Modelagem:
+		- Na terceira fase, o projeto começa a ser modelado de acordo com os requisitos levantados na fase de
+		Comunicação. É feita uma "balança" entre os requisitos do cliente e os recursos tecnológicos disponíveis.
+	4 - Construção:
+		- Na quarta fase, é colocada a "mão na massa". É programado o software pela equipe de desenvolvedores,
+		que programam e procuram erros através de testes, o que é muito importante para que 
+		o software esteja "saudável".
+	5 - Implantação:
+		- Na quinta fase, o software é finalmente entregue ao cliente, que faz uma avaliação do resultado e 
+		retorna seu feedback sobre o que acho do resultado.
+
+- Problemas no modelo Cascata:
+
+	- Há um problema no qual a equipe não sabe exatamente o que fazer, visto que o cliente não especificou 
+	perfeitamente o que quer em seu software.
+	- O tempo entre o início do desenvolvimento até o cliente ver algum resultado é grande demais, o que pode
+	gerar uma insatisfação do cliente para com a equipe.
+	- A sequência quase não é seguida atualmente, o que pode gerar problemas nas equipes que o desenvolvem.
+	- Existem partes do processo em que é requerida uma determinada equipe e outras partes em que outra parte,
+	da equipe é requerida. Isso causa uma ociosidade nas equipes que não fazem nada em determindas fases.
+	- É um modelo extremamente rígido.
+
+- Modelo Iterativo Incremental:
+
+	- É um modelo em que o tempo entre o pedido do cliente e a entrega de algum resultado é menor, pois, 
+	num primeiro momento, é identificado qual é a maior necessidade do cliente no momento, a equipe trabalha
+	para suprir essa primeira necessidade e, após isso, são incrementadas novas funcionalidades através da
+	iteratividade, que, ao final de uma repetição, é incrementada mais uma funcionalidade até o produto final
+	estar pronto.	
+
+- Relação entre OO, UML e RUP:
+
+	- No final da década de 80, muitas empresas começaram a adotar a programação orientada a objetos para fazer seus 
+	projetos, o que fez com que cada empresa seguisse seu próprio processo de desenvolvimento, o que criou a necessidade
+	de um processo unificado, aí entrou o UML, que viria para padronizar os processos de desenvolvimento, e depois veio
+	o RUP, para refinar ainda mais o processo através desse tipo de processo objetivo de desenvolvimento.
+
+
+Nome:Bernardo de Lima.	

@@ -1,0 +1,82 @@
+					tp1
+
+1 - Sacar:
+	o usuário deve ser capaz de sacar dinheiro
+    Transferir:
+	o usuário deve ser capaz de transferir dinheiro
+    Criar:
+	o usuário deve ser capaz de criar uma conta
+    Depositar:
+	o usuário deve ser capaz de depositar dinheiro numa determinada conta
+    Pagar contas:
+	o usuário deve ser capaz de pagar contas 
+
+2 - Segurança:
+	sendo um sistema bancário, deve ser totalmente seguro
+    Praticidade:
+	as operações devem ser práticas e direto ao ponto
+    Rapidez;
+	além de práticas, as operações devem ser rápidas, desviando de erros e delays
+
+
+
+4 - usuário(motorista) - pagar
+
+
+funcionário - introduzir placa marcando data e hora
+	    - registrar placa
+       	    - introduzir a placa quando o usuário sair do estacionamento
+
+
+admin - emitir relatório
+      - cadastrar novos funcionários
+      - acessar as opções dadas ao funcionário
+
+6 - 	Buscar um produto: Buscar um determinado produto no site
+	Comparar preços: Comparar preços entre o vendedores do site
+	Adicionar produto ao carrinho: Adicionar produto a uma lista de produtos prontos para serem comprados
+
+7 - 	Buscar um produto: Buscar um produto de um determinado vendedor no sistema
+	Buscar mesmo produto: Buscar mesmo produto só que de vendedores diferentes desconsiderando o vendedor acima
+	Exibir ambos: Exibir ambos os produtos em uma mesma tela, visando enfatizar o preço dos mesmos
+
+9 - 	Usuário:
+		buscar produtos
+		comparar produtos
+		adicionar produtos ao carrinho
+		comprar produtos
+		consultar carrinho
+		alterar carrinho
+		editar forma de pagamento e dados pessoais
+	Admin: 
+		cadastrar produtos
+		emitir relatórios de compras
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

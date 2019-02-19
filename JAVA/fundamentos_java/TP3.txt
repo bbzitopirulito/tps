@@ -1,0 +1,6 @@
+						TP3
+
+
+- Sim, pois o tipo pretendido de retorno não foi prefixado entre parênteses, o que pode gerar um erro de incompatibilidade
+
+Nome: Bernardo Mendes de Lima

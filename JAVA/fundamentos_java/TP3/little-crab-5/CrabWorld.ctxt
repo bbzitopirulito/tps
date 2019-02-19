@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CrabWorld
+comment0.text=\r\n\ The\ CrabWorld\ is\ the\ place\ where\ crabs\ and\ other\ creatures\ live.\ \r\n\ It\ creates\ the\ initial\ population.\r\n
+comment1.params=
+comment1.target=CrabWorld()
+comment1.text=\r\n\ Create\ the\ crab\ world\ (the\ beach).\ Our\ world\ has\ a\ size\ \r\n\ of\ 560x560\ cells,\ where\ every\ cell\ is\ just\ 1\ pixel.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ showTime()
+comment4.params=
+comment4.target=void\ showPoints()
+comment5.params=
+comment5.target=void\ countTime()
+comment6.params=
+comment6.target=void\ endGame()
+comment7.params=
+comment7.target=void\ prepare()
+comment7.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=8
